@@ -13,3 +13,89 @@
 }
 
 /* your code */
+
+.city-item{
+
+  border: solid black;
+
+  display: flex;
+
+  margin: 10px;
+
+  padding: 5px;
+
+  background-color: #00754a;
+
+}
+
+
+
+header{
+
+  border: solid black;
+
+  border-radius: 10px;
+
+  padding: 1em;
+
+  display: flex;
+
+  color: black;
+
+  font-weight: bold;
+
+  background-color: #d4e9e2;
+
+  margin: 10px;
+
+}
+
+
+
+.city-list{
+
+  border: solid #d4e9e2;
+
+  border-radius: 2rem;
+
+  padding: 10px;
+
+  margin: 10px;
+
+  background-color: #1e3932;
+
+  justify-content: end;
+
+}
+
+body{
+
+  background-color: #1e3932;
+
+  margin: 5rem;
+
+}
+
+
+
+h1{
+
+  color: white;
+
+  display: flex;
+
+  font-size: x-large;
+
+ 
+
+}
+
+nav{
+
+  display: flex;
+
+  flex-direction: row;
+
+  justify-content: space-between;
+
+}
